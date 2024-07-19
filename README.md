@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @git buddhila
 - 👀 I’m interested in Software Engeneering
-- 🌱 I’m currently learning Web Development, Object-Oriented Concepts, C, C++, Java, JavaScript, HTML/CSS, Node.js, Python , database handling , commiunication skills
+- 🌱 I’m currently learning Web Development, Object-Oriented Concepts, C, C++, Java, JavaScript, HTML/CSS, Node.js,React, Python , database handling , commiunication skills
 - 💞️ I’m looking to collaborate on 
 - 📫 reach me +94-769626176
 - 😄 Pronouns: He, educator
